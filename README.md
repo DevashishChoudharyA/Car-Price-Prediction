@@ -1,6 +1,8 @@
 # Car-Price-Prediction
-Project Description: Car Price Prediction 
+Project Description: Car Price Prediction  |
 Live Link : https://car-price-prediction-sdpw.onrender.com
+
+![Project template](image.png)
 
 This data science project aims to develop a car price prediction model based on various features such as the acquisition year, showroom price, kilometers driven, number of previous owners, fuel type, dealer or individual, and transmission type. By utilizing machine learning algorithms and regression techniques, we will create a model that can estimate the selling price of a used car accurately.
 
