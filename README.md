@@ -1,5 +1,5 @@
 # Car-Price-Prediction
-Project Description: Car Price Prediction  |
+Project Topic: Car Price Prediction  |
 Live Link : https://car-price-prediction-sdpw.onrender.com
 
 ![Project template](image.png)
